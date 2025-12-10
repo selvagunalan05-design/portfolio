@@ -162,7 +162,8 @@ nav a{
 }
 a.icon-link{
     color:inherit;
-    text-decoration:none;}
+    text-decoration:none;
+}
 .icon a i:hover{
     color:rgb(0, 0, 0);
     transform:translateY(-20px);
@@ -601,4 +602,5 @@ img:hover{
     border-width:2px;
     border-color:rgb(39, 2, 50);
     transition:all 0.3s ease-in-out;
+
 }
