@@ -16,6 +16,9 @@
     gap: 20px;
     color:white;
 }
+.mmm.line{
+
+}
 .mo{
     
     background-image:linear-gradient(to left,rgb(151, 9, 123),rgb(47, 2, 57) 60%); 
@@ -28,7 +31,8 @@
     flex-direction:row;
     justify-content:flex-end;
     width:30%;
-    padding:100px;
+    padding:70px;
+    margin-left:20px;
     padding-bottom:0px;
     margin-bottom:0px;
     margin-top:0px;
@@ -153,10 +157,13 @@ nav a{
     gap:50px;
     margin-left: 0px;
     padding:30px;
-   
+    color:white;
    
 }
-.icon i:hover{
+a.icon-link{
+    color:inherit;
+    text-decoration:none;}
+.icon a i:hover{
     color:rgb(0, 0, 0);
     transform:translateY(-20px);
     cursor:pointer;
